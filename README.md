@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on Mobile Apps Development
 - 🌱 I’m currently learning IOS .
 - 💬 Ask me about Architecture , Design Patterns , Android , Flutter , IOS , OOP, , Kotlin, Dart , Java , Swift. 
-- 📫 **How to reach me**: follow me from the below links :point_down: ,or Direct Call: +201060976248 , in addition to following me here.
 - ⚡ Contributer at  [Open-Bytes](https://github.com/Open-Bytes) 
+- 📫 **How to reach me**: follow me from the below links :point_down: ,or Direct Call: +201060976248 , in addition to following me here.
 
 ## Contact Me
 
