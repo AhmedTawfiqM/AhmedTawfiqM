@@ -9,11 +9,9 @@
 ## Contact Me
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=green&label=linkedin&logo=linkedin&logoColor=blue&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/ahmed-tawfiiq/)
-<br />
 [![Twitter URL](https://img.shields.io/static/v1?color=green&label=Twitter%20&logo=twitter&logoColor=9cf&style=for-the-badge&message=Follow)](https://twitter.com/AhmTawfiiq)
 <br />
 [![Instagram URL](https://img.shields.io/static/v1?color=green&label=Instagram&logo=Instagram&logoColor=red&style=for-the-badge&message=Connect)](https://www.instagram.com/ahmed_a.tawfiq/)
-<br />
 [![Facebook URL](https://img.shields.io/static/v1?color=green&label=Facebook&logo=Facebook&logoColor=blue&style=for-the-badge&message=Connect)](https://www.facebook.com/profile.php?id=100003771540586)
 
 <!-- /https://github.com/anuraghazra/github-readme-stats#themes -->
