@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/ahmed-tawfiiq/)
+[![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/AhmTawfiiq)
+[![Facebook URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/profile.php?id=100003771540586)
+
 <!--
 **AhmedTawfiqM/AhmedTawfiqM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
