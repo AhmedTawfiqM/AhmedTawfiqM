@@ -45,6 +45,14 @@
 |   [Unit Testing Practise](https://github.com/AhmedTawfiqM/UnitTestingPractice)   |  **Unit Testing Practise** Android Project developed with Unit testing Practise and TDD.                                 |
 |   [Android Modular App](https://github.com/AhmedTawfiqM/Modular_App)   |  **Android Modular App** Android Project Codebase with Modular Architecture.                                 |
 
+<hr/>
+<a href="https://github.com/AhmedTawfiqM">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedTawfiqM&count_private=true&show_icons=true&theme=gruvbox&hide_border=false" />
+</a>
+<!-- <br /> -->
+<a href="https://github.com/AhmedTawfiqM">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedTawfiqM&layout=compact&theme=synthwave&hide_border=false" />
+</a>
 
 <!--
 **AhmedTawfiqM/AhmedTawfiqM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
