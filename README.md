@@ -7,9 +7,12 @@
 ## Contact Me
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=green&label=linkedin&logo=linkedin&logoColor=blue&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/ahmed-tawfiiq/)
+<br />
 [![Twitter URL](https://img.shields.io/static/v1?color=green&label=Twitter%20&logo=twitter&logoColor=9cf&style=for-the-badge&message=Follow)](https://twitter.com/AhmTawfiiq)
-[![Facebook URL](https://img.shields.io/static/v1?color=green&label=Facebook&logo=Facebook&logoColor=blue&style=for-the-badge&message=Connect)](https://www.facebook.com/profile.php?id=100003771540586)
+<br />
 [![Instagram URL](https://img.shields.io/static/v1?color=green&label=Instagram&logo=Instagram&logoColor=red&style=for-the-badge&message=Connect)](https://www.instagram.com/ahmed_a.tawfiq/)
+<br />
+[![Facebook URL](https://img.shields.io/static/v1?color=green&label=Facebook&logo=Facebook&logoColor=blue&style=for-the-badge&message=Connect)](https://www.facebook.com/profile.php?id=100003771540586)
 
 
 # Open Source Libraries
@@ -18,11 +21,28 @@
 
 |       **Repo**                                                                   |                     **Description**                                                                             |
 | ------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   [SwiftUINavigator](https://github.com/Open-Bytes/SwiftUINavigator)   |  **SwiftUINavigator** is a lightweight, flexible, and super easy library which makes `SwiftUI` navigation a trivial task.                                 |
-|   [SwiftUIFormValidator](https://github.com/ShabanKamell/SwiftUIFormValidator)   |  A declarative SwiftUI form validation. <br /> Clean, simple, and customizable.                                 |
-|   [ModelMapper-Swift](https://github.com/ShabanKamell/ModelMapper-Swift)         |  An abstraction for mapping models, write a mapper once, use everywhere.                                        |
-|   [RxRequester-Swift](https://github.com/ShabanKamell/RxRequester-Swift)         |  A wrapper for RxSwift abstracts away all those nasty details you don't really care about in every Rx request.  |
-|   [RxLocation-iOS](https://github.com/ShabanKamell/RxLocation-iOS)               |  An RX wrapper for iOS location. It's simple and powerful.                                                      |
+|   [Starter Android Library](https://github.com/AhmedTawfiqM/Starter-Android-Library)   |  **Starter Android Library** is a Codebase for your Library with Clean , Testable and Changeable code.    
+
+### IOS
+
+|       **Repo**                                                                   |                     **Description**                                                                             |
+| ------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   [Weather App](https://github.com/AhmedTawfiqM/WeatherApp-IOS)   |  **Weather App** is a Weather App with MVVM architecture.    
+
+### Flutter
+
+|       **Repo**                                                                   |                     **Description**                                                                             |
+| ------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   [Starter Flutter](https://github.com/AhmedTawfiqM/Starter-Flutter)   |  **Starter Flutter** is a Codebase for your Project with Clean , Testable and Changeable code.                                 |
+|
+
+### Projects
+
+|       **Repo**                                                                   |                     **Description**                                                                             |
+| ------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   [GOF Design Patterns](https://github.com/AhmedTawfiqM/GOF-Design-Pattern)   |  **GOF Design Patterns** is a Samples of 23 Design Patterns , every DP has at least one example and Head First Design Pattern Book is Considered in samples.                                 |
+|   [Unit Testing Practise](https://github.com/AhmedTawfiqM/UnitTestingPractice)   |  **Unit Testing Practise** Android Project developed with Unit testing Practise and TDD.                                 |
+|
 
 <!--
 **AhmedTawfiqM/AhmedTawfiqM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
