@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on Mobile Apps Development
 - 🌱 I’m currently learning IOS .
-- 💬 Ask me about Android - Flutter
+- 💬 Ask me about Architecture , Design Patterns , Android , Flutter , IOS , OOP, , Kotlin, Dart , Java , Swift. 
+- 📫 **How to reach me**: follow me from the below links :point_down: ,or Direct Call: +201060976248 , in addition to following me here.
 
 ## Contact Me
 
@@ -34,7 +35,7 @@
 |       **Repo**                                                                   |                     **Description**                                                                             |
 | ------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   [Starter Flutter](https://github.com/AhmedTawfiqM/Starter-Flutter)   |  **Starter Flutter** is a Codebase for your Project with Clean , Testable and Changeable code.                                 |
-|
+
 
 ### Projects
 
@@ -42,7 +43,8 @@
 | ------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   [GOF Design Patterns](https://github.com/AhmedTawfiqM/GOF-Design-Pattern)   |  **GOF Design Patterns** is a Samples of 23 Design Patterns , every DP has at least one example and Head First Design Pattern Book is Considered in samples.                                 |
 |   [Unit Testing Practise](https://github.com/AhmedTawfiqM/UnitTestingPractice)   |  **Unit Testing Practise** Android Project developed with Unit testing Practise and TDD.                                 |
-|
+|   [Android Modular App](https://github.com/AhmedTawfiqM/Modular_App)   |  **Android Modular App** Android Project Codebase with Modular Architecture.                                 |
+
 
 <!--
 **AhmedTawfiqM/AhmedTawfiqM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
