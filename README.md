@@ -14,6 +14,8 @@
 [![Instagram URL](https://img.shields.io/static/v1?color=green&label=Instagram&logo=Instagram&logoColor=red&style=for-the-badge&message=Connect)](https://www.instagram.com/ahmed_a.tawfiq/)
 [![Facebook URL](https://img.shields.io/static/v1?color=green&label=Facebook&logo=Facebook&logoColor=blue&style=for-the-badge&message=Connect)](https://www.facebook.com/profile.php?id=100003771540586)
 
+
+
 <!-- /https://github.com/anuraghazra/github-readme-stats#themes -->
 <hr/>
 <a href="https://github.com/AhmedTawfiqM">
@@ -25,6 +27,10 @@
 </a>
 
 <br /> <br /> 
+
+![Profile views](https://komarev.com/ghpvc/?username=AhmedTawfiqM&color=blue)
+
+<br /> 
  - Catch and Poach My libraries or projects in mobile development from blew 🔥 👇
 
 # Open Source Libraries 🔔
